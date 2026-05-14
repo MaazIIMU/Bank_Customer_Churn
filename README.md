@@ -144,7 +144,7 @@ plt.show()
 
 ## Geography Churn Distribution Plot
 
-![Geography Churn Distribution](plots/geography_churn_distribution.png)
+![Geography Churn Distribution](Plots/geography_churn_distribution.png)
 
 ### Insight
 
@@ -246,7 +246,7 @@ y_prob = model.predict_proba(X_test)[:, 1]
 
 # ROC Curve
 
-![ROC Curve](plots/roc_curve.png)
+![ROC Curve](Plots/roc_curve.png)
 
 ---
 
